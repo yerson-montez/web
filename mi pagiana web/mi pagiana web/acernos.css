@@ -1,0 +1,27 @@
+body {
+    height: 800px;
+    background-image: url(Fondo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+*{
+    padding: 5px;
+    margin: 10px;
+    border: 0px;
+    
+}
+
+.contenedor{
+    width: 94%;
+    height: 500px;
+    margin: 5px;
+    font-size: 20px;
+    color:aliceblue;
+    background-color: black;
+    position: absolute;
+    top: 20%;
+
+
+}
